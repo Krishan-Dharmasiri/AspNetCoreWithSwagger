@@ -1,0 +1,15 @@
+C:\Krishantha\Projects\net core\AspNetCoreAPIWithSwagger\AspNetCoreAPIWithSwagger\bin\Debug\netcoreapp2.2\AspNetCoreAPIWithSwagger.deps.json
+C:\Krishantha\Projects\net core\AspNetCoreAPIWithSwagger\AspNetCoreAPIWithSwagger\bin\Debug\netcoreapp2.2\AspNetCoreAPIWithSwagger.runtimeconfig.json
+C:\Krishantha\Projects\net core\AspNetCoreAPIWithSwagger\AspNetCoreAPIWithSwagger\bin\Debug\netcoreapp2.2\AspNetCoreAPIWithSwagger.runtimeconfig.dev.json
+C:\Krishantha\Projects\net core\AspNetCoreAPIWithSwagger\AspNetCoreAPIWithSwagger\bin\Debug\netcoreapp2.2\AspNetCoreAPIWithSwagger.dll
+C:\Krishantha\Projects\net core\AspNetCoreAPIWithSwagger\AspNetCoreAPIWithSwagger\bin\Debug\netcoreapp2.2\AspNetCoreAPIWithSwagger.pdb
+C:\Krishantha\Projects\net core\AspNetCoreAPIWithSwagger\AspNetCoreAPIWithSwagger\obj\Debug\netcoreapp2.2\AspNetCoreAPIWithSwagger.csprojAssemblyReference.cache
+C:\Krishantha\Projects\net core\AspNetCoreAPIWithSwagger\AspNetCoreAPIWithSwagger\obj\Debug\netcoreapp2.2\AspNetCoreAPIWithSwagger.csproj.CoreCompileInputs.cache
+C:\Krishantha\Projects\net core\AspNetCoreAPIWithSwagger\AspNetCoreAPIWithSwagger\obj\Debug\netcoreapp2.2\AspNetCoreAPIWithSwagger.RazorAssemblyInfo.cache
+C:\Krishantha\Projects\net core\AspNetCoreAPIWithSwagger\AspNetCoreAPIWithSwagger\obj\Debug\netcoreapp2.2\AspNetCoreAPIWithSwagger.RazorAssemblyInfo.cs
+C:\Krishantha\Projects\net core\AspNetCoreAPIWithSwagger\AspNetCoreAPIWithSwagger\obj\Debug\netcoreapp2.2\AspNetCoreAPIWithSwagger.AssemblyInfoInputs.cache
+C:\Krishantha\Projects\net core\AspNetCoreAPIWithSwagger\AspNetCoreAPIWithSwagger\obj\Debug\netcoreapp2.2\AspNetCoreAPIWithSwagger.AssemblyInfo.cs
+C:\Krishantha\Projects\net core\AspNetCoreAPIWithSwagger\AspNetCoreAPIWithSwagger\obj\Debug\netcoreapp2.2\AspNetCoreAPIWithSwagger.RazorTargetAssemblyInfo.cache
+C:\Krishantha\Projects\net core\AspNetCoreAPIWithSwagger\AspNetCoreAPIWithSwagger\obj\Debug\netcoreapp2.2\AspNetCoreAPIWithSwagger.dll
+C:\Krishantha\Projects\net core\AspNetCoreAPIWithSwagger\AspNetCoreAPIWithSwagger\obj\Debug\netcoreapp2.2\AspNetCoreAPIWithSwagger.pdb
+C:\Krishantha\Projects\net core\AspNetCoreAPIWithSwagger\AspNetCoreAPIWithSwagger\bin\Debug\netcoreapp2.2\AspNetCoreAPIWithSwagger.xml

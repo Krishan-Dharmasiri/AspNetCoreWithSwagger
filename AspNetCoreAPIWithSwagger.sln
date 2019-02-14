@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreAPIWithSwagger", "AspNetCoreAPIWithSwagger\AspNetCoreAPIWithSwagger.csproj", "{2A41E6D6-6177-40DA-B855-396D73DE910C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A41E6D6-6177-40DA-B855-396D73DE910C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A41E6D6-6177-40DA-B855-396D73DE910C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A41E6D6-6177-40DA-B855-396D73DE910C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A41E6D6-6177-40DA-B855-396D73DE910C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E19EBC3D-F3B6-410B-90C4-221E4F50E6C3}
+	EndGlobalSection
+EndGlobal

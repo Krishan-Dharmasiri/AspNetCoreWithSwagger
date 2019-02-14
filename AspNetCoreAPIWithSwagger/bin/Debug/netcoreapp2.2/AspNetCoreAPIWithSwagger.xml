@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AspNetCoreAPIWithSwagger</name>
+    </assembly>
+    <members>
+        <member name="T:AspNetCoreAPIWithSwagger.Controllers.EmployeeController">
+            <summary>
+            All the endpoints related to the Employee entity
+            </summary>
+        </member>
+        <member name="M:AspNetCoreAPIWithSwagger.Controllers.EmployeeController.Get">
+            <summary>
+            This will return all the employees, Currently serving from an inmemory collection for the testability.
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
